@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "text": "This is a todo"
+  },
+  {
+    "id": 2,
+    "text": "This is another todo"
+  },
+  {
+    "id": 3,
+    "text": "This is yet another todo"
+  }
+]
